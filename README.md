@@ -1,4 +1,4 @@
-### Hi there, I'm Jitesh! 👋  
+### Hi there, I'm Jitesh Kumar Yadav ! 👋  
 
 - 🔭 I’m currently working on Data Scientist and AI projects.  
 - 🌱 I’m currently learning Deep Learning.
