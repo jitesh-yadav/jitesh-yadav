@@ -6,12 +6,12 @@
 - 🤔 I’m looking for help with building AI models and optimizing ML algorithms.  
 - 💬 Ask me about Python, Data Science, SQL, and Analytics.  
 - 📫 How to reach me: [jitesh3777yadav@gmail.com] | [https://www.linkedin.com/in/jitesh-yadav-9a97b1165/] | 
-- ⚡ Fun fact: I manage two WhatsApp groups with 1,024 members each.
+- ⚡ Fun fact: I am creator of two WhatsApp groups with 1,024 members each.
 
 ---
 
 💡 **Tech Stack:**  
-- Python | SQL | Power BI | Machine Learning | Deep Learning | Tableau |  
+- Python | SQL | Machine Learning | Tableau |  
 - Data Structures & Algorithms | Business Analytics | Excel  
 - AI Model Optimization | Cloud Computing (beginner)  
 
