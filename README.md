@@ -28,6 +28,8 @@ I specialize in building robust data pipelines and statistical models to decode 
 ### 📈 Featured Projects
 
 #### 1. [Indian Sovereign Yield Curve Monitor]
+https://github.com/jitesh-yadav/Indian-sovereign-yield-curve-and-macro-liquidity-monitor
+
 * **Objective:** Quantified the "Bear Flattening" of the Indian Yield Curve (2020-2025).
 * **Tech:** Python, Time-Series Analysis.
 * **Key Insight:** Detected a 14-month "Liquidity Deficit" regime where Interbank Rates (WACR) decoupled from the Policy Repo Rate.
