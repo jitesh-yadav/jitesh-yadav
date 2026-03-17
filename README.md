@@ -4,7 +4,7 @@
 
 ### 🚀 Bridging Computer Science & Quantitative Finance
 
-I am a **Computer Science Engineer** turned **Quantitative Researcher**, currently working as a Research Intern at the **Reserve Bank of India (DSIM)**. My work focuses on the intersection of **Econometrics**, **Data Engineering**, and **Financial Risk Modeling**.
+I am a **Computer Science Engineer** turned **Quantitative Researcher**, currently working as a Researcher at the **Reserve Bank of India (DSIM)**. My work focuses on the intersection of **Econometrics**, **Data Engineering**, and **Financial Risk Modeling**.
 
 I specialize in building robust data pipelines and statistical models to decode systemic financial risks, from sovereign yield curve volatility to credit utilization dynamics.
 
